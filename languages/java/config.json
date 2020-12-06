@@ -93,6 +93,12 @@
           "functions",
           "abstract"
         ]
+      },
+      {
+        "slug": "international-calling-connoisseur",
+        "uuid": "49350412-37dd-11eb-adc1-0242ac120002",
+        "concepts": ["maps"],
+        "prerequisites": []
       }
     ],
     "practice": [
