@@ -71,6 +71,12 @@
         "prerequisites": ["basics"]
       },
       {
+        "slug": "logs-logs-logs",
+        "uuid": "78f4ac7e-373e-11eb-adc1-0242ac120002",
+        "concepts": ["enums"],
+        "prerequisites": ["switch-statement", "strings"]
+      },
+      {
         "slug": "ternary-operators",
         "uuid": "5521e413-a382-4c33-ae9c-159a4d7632ca",
         "concepts": ["ternary-operators"],
